@@ -21,12 +21,6 @@ Live demo at https://jekyll-theme-minimal-resume.netlify.com/
 
 ***
 
-# Screenshot
-
-<p align="center">
-  <img src="https://github.com/murraco/jekyll-theme-minimal-resume/blob/master/C87D25BC-4247-42DB-8992-0F5F03D5949D_1_201_a.jpeg" width="90%" />
-</p>
-
 # Quick Setup
 
 1. Install Jekyll: `gem install jekyll bundler`
